@@ -8,6 +8,13 @@
             "checksum": "2e2bc8fad9f84fc49f7419d98cd8e0be2efcbc1b5008627d099446fee443e92f",
             "url": "https://bettinc.github.io/ARM_REC/REC24_Tappa1.zip",
             "file": "REC24_Tappa1.zip"
+        },
+        "arm_rec2024_t4": {
+            "description": "ARM REC 2024 Tappa4",
+            "version": "24.0731",
+            "checksum": "7E0EE0F372397F2750527D199F3A966A2A9055EE4EDB3B0F6F570514E9C6D0D3",
+            "url": "https://bettinc.github.io/ARM_REC/REC24_Tappa4.zip",
+            "file": "REC24_Tappa4.zip"
         }
     }
 }
