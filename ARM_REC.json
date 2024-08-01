@@ -11,10 +11,10 @@
         },
         "arm_rec2024_t4": {
             "description": "ARM REC 2024 Tappa4",
-            "version": "24.0731",
-            "checksum": "7E0EE0F372397F2750527D199F3A966A2A9055EE4EDB3B0F6F570514E9C6D0D3",
-            "url": "https://bettinc.github.io/ARM_REC/REC24_Tappa4.zip",
-            "file": "REC24_Tappa4.zip"
+            "version": "24.0801",
+            "checksum": "1776BE1F07F00F533C28CF0C7C53021D2955FE8AA0B5CEF5C418B0276FF09D21",
+            "url": "https://bettinc.github.io/ARM_REC/rec24_tappa4.zip",
+            "file": "rec24_tappa4.zip"
         }
     }
 }
