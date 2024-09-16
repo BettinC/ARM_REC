@@ -11,8 +11,8 @@
         },
         "arm_rec2024_t4": {
             "description": "ARM REC 2024 Tappa4",
-            "version": "24.0801",
-            "checksum": "1776be1f07f00f533c28cf0c7c53021d2955fe8aa0b5cef5c418b0276ff09d21",
+            "version": "24.0916",
+            "checksum": "60472334edb2bfa7ba21ee7af64783b453168cdc151b8cb016972e6d3003b03e",
             "url": "https://bettinc.github.io/ARM_REC/rec24_tappa4.zip",
             "file": "rec24_tappa4.zip"
         }
