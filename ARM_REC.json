@@ -1,18 +1,18 @@
 {
-    "name": "ARM Endurance Championship",
+    "name": "ARM REPO R6 per REC e SerieArm25",
     "version": "25.0303",
     "packages": {
         "arm_rec2024": {
             "description": "ARM REC 2024",
             "version": "24.1011",
-            "checksum": "2929362C6FF833A40C55BC81DE8E83AAFA48E727E58D0F491D7262D6E0412ACC",
+            "checksum": "2929362c6ff833a40c55bc81de8e83aafa48e727e58d0f491d7262d6e0412acc",
             "url": "https://bettinc.github.io/ARM_REC/REC24.zip",
             "file": "REC24.zip"
         },
         "arm_seriearm25": {
             "description": "ARM Serie Arm 2025",
             "version": "25.0303",
-            "checksum": "BB67E1CD05DA0EBB0C2B2008E2D034F2996A0015525BA016E4B931F7020793B9",
+            "checksum": "bb67e1cd05da0ebb0c2b2008e2d034f2996a0015525ba016e4b931f7020793b9",
             "url": "https://bettinc.github.io/ARM_REC/seriearm25.zip",
             "file": "seriearm25.zip"
         }
