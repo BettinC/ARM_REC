@@ -2,7 +2,7 @@
     "name": "ARM Endurance Championship",
     "version": "25.0303",
     "packages": {
-        "arm_rec2024_t1": {
+        "arm_rec2024": {
             "description": "ARM REC 2024",
             "version": "24.1011",
             "checksum": "2929362C6FF833A40C55BC81DE8E83AAFA48E727E58D0F491D7262D6E0412ACC",
