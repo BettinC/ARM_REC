@@ -1,27 +1,20 @@
 {
     "name": "ARM Endurance Championship",
-    "version": "24.0302",
+    "version": "25.0303",
     "packages": {
         "arm_rec2024_t1": {
-            "description": "ARM REC 2024 Tappa1",
-            "version": "24.0302",
-            "checksum": "2e2bc8fad9f84fc49f7419d98cd8e0be2efcbc1b5008627d099446fee443e92f",
-            "url": "https://bettinc.github.io/ARM_REC/REC24_Tappa1.zip",
-            "file": "REC24_Tappa1.zip"
-        },
-        "arm_rec2024_t4": {
-            "description": "ARM REC 2024 Tappa4",
-            "version": "24.0916",
-            "checksum": "60472334edb2bfa7ba21ee7af64783b453168cdc151b8cb016972e6d3003b03e",
-            "url": "https://bettinc.github.io/ARM_REC/rec24_tappa4.zip",
-            "file": "rec24_tappa4.zip"
-        },
-        "arm_rec2024_t5": {
-            "description": "ARM REC 2024 Tappa5",
+            "description": "ARM REC 2024",
             "version": "24.1011",
-            "checksum": "c387ed4c0110a380d24764929d5e3fc3efd4c8c739f5cc6428f7fe7f5b5637ff",
-            "url": "https://bettinc.github.io/ARM_REC/rec24_tappa5.zip",
-            "file": "rec24_tappa5.zip"
+            "checksum": "2929362C6FF833A40C55BC81DE8E83AAFA48E727E58D0F491D7262D6E0412ACC",
+            "url": "https://bettinc.github.io/ARM_REC/REC24.zip",
+            "file": "REC24.zip"
+        },
+        "arm_seriearm25": {
+            "description": "ARM Serie Arm 2025",
+            "version": "25.0303",
+            "checksum": "BB67E1CD05DA0EBB0C2B2008E2D034F2996A0015525BA016E4B931F7020793B9",
+            "url": "https://bettinc.github.io/ARM_REC/seriearm25.zip",
+            "file": "seriearm25.zip"
         }
     }
 }
